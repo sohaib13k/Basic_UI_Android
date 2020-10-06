@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UI Challenge</string>
+    <string-array name="country">
+        <item>Pakistan</item>
+        <item>China</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Bangladesh</item>
+        <item>Myanmar</item>
+    </string-array>
+</resources>

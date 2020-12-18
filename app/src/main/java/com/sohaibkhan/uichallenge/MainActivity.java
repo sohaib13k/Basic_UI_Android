@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // initViews();
+        initViews();
 
         buttonPickImage.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -54,6 +54,8 @@ public class MainActivity extends AppCompatActivity {
         textView2 = findViewById(R.id.textView2);
         textView3 = findViewById(R.id.textView3);
         textView4 = findViewById(R.id.textView4);
+
+        // textView4 = findViewById(R.id.textView4);
 
         checkBoxLicense = findViewById(R.id.checkBoxLicense);
 

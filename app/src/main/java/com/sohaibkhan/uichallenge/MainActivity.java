@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         textView = findViewById(R.id.textView);
         textView2 = findViewById(R.id.textView2);
         textView3 = findViewById(R.id.textView3);
-        textView4 = findViewById(R.id.textView4);
+        // textView4 = findViewById(R.id.textView4);
 
         // textView3 = findViewById(R.id.textView3);
         

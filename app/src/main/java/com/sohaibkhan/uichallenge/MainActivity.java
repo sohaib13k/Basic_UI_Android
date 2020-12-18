@@ -55,6 +55,8 @@ public class MainActivity extends AppCompatActivity {
         textView3 = findViewById(R.id.textView3);
         textView4 = findViewById(R.id.textView4);
 
+        // textView3 = findViewById(R.id.textView3);
+        
         // textView4 = findViewById(R.id.textView4);
 
         checkBoxLicense = findViewById(R.id.checkBoxLicense);
